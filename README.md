@@ -1,6 +1,6 @@
 # Naive_Bayes_on_Amazon_food_fine_dataset
 
-Implementation of Naive Baye's algorithm for classification of positive and negative reviews
+Implementation of Naive Baye's algorithm for classification of positive and negative reviews.<br>
 Amazon Fine Food Reviews Analysis
 ## Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
